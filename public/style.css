@@ -1,0 +1,38 @@
+body{
+   align-items: center;
+   
+}
+.chat{
+     margin: 40px;
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 17px;
+    display: inline-block;
+}
+.messege{
+    background-color: rgba(118, 118, 198, 0.469);
+    padding: 5px 10px;
+    border-radius: 17px;
+}
+h2{
+    color: rgb(24, 79, 24);
+    text-align: center;
+}
+button{
+    background-color: rgb(70, 104, 70);
+    color: white;
+    margin-left: 30px;
+}
+.but{
+    background-color: rgba(89, 89, 154, 0.883);;
+    margin-left: 5px;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.debut{
+    margin-left: 5px;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}

@@ -1,0 +1,21 @@
+h3{
+    text-align: center;
+    color: rgb(42, 83, 42);
+}
+h4{
+    text-align: center;
+    color: rgb(67, 113, 67);
+}
+.enhan{
+    background-color: rgba(120, 154, 184, 0.428);
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin: 0 auto;
+    border-radius: 16px;
+    text-align: center;
+    padding: 20px;
+}
+textarea{
+    background-color: rgba(85, 121, 151, 0.529);
+}

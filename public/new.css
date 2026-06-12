@@ -1,0 +1,18 @@
+.formm{
+    margin-left: 50px;
+    background-color: rgb(119, 180, 233);
+    padding: 50px;
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+}
+h3{
+    color: rgb(22, 82, 27);
+    text-align: center;
+}
+input{
+    padding: auto;
+}
+textarea{
+    padding: 20px;
+}
