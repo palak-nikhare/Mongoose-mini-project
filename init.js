@@ -41,6 +41,12 @@ let chats = [{
     to : "gouri",
     msg :"heyy, can u explain me this topic",
     created_at : new Date()
+},
+{
+    from :"nandini",
+    to : "jaineeta",
+    msg :"can you send me ques",
+    created_at : new Date()
 }]
 
 Chat.insertMany(chats);
